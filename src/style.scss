@@ -1,0 +1,25 @@
+$a: orange;
+
+.box {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    h2 {
+        margin: 0;
+
+        span {
+            color: white;
+            font-size: 10px;
+            letter-spacing: 7px;
+        }
+    }
+}
+
+
+/*
+.box h2 span {
+    color: white;
+    font-size: 10px;
+    letter-spacing: 7px;
+}
+*/
