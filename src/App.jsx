@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.scss';
 import './buttons.scss';
-import { get, store } from './Functions/localStarage';
+import { get, store } from './Functions/localStorage';
 import Delete from './Components/jb/Delete';
 
 const KEY = 'persons';
